@@ -78,3 +78,34 @@ deliverables:
   3. 토큰 기반 외부 셀프서비스 결과 페이지 + SMS 알림 연동 경험
   4. 멀티지점(검사소) 관리·출퇴근/증빙 파일·알림 (Harmony Link)
   5. 대전 대면 회의 협의 가능 + 산출물 6종 전체 납품
+
+## 6. 최종 산출물 (8단계 출력 전문)
+
+### 제안서 사이트 URL
+https://proposal-router.claude-ai-b27.workers.dev/proposal-sample-analysis-tracking-system/
+
+### 지원 금액
+21,250,000원 (VAT 별도)
+
+### 지원 기간
+90일
+
+### 클라이언트 질문 답변
+공고 내 클라이언트 작성 질문 없음 — 해당 없음.
+
+### 지원 내용 (전체)
+안녕하세요, 시료 분석 결과 관제 및 시료 실시간 추적 정보관리시스템 개발 프로젝트에 지원합니다.
+
+본 프로젝트에 대한 상세 제안서(견적서, 공수계산서, PRD, 일정, 포트폴리오)를 별도 페이지로 준비하였습니다.
+▶ 제안서 상세 페이지: https://proposal-router.claude-ai-b27.workers.dev/proposal-sample-analysis-tracking-system/
+▶ 위시켓 포트폴리오: https://www.wishket.com/partners/p/blueverse1/
+
+[프로젝트 진행 제안] 프로젝트 분석 / 작업 일정 4 Phase(90일) / 마일스톤 M1~M5 / 미팅 협의 필요 사항
+[유사 프로젝트 경험] 전자결재·업무관리 플랫폼 / 투자조합 관리 플랫폼 / 주간보호센터 관리 플랫폼
+[사용 기술] FE: Next.js·TypeScript·차트(ECharts/Recharts) / BE: NestJS·PostgreSQL·WebSocket / 연동: SMS API·AWS·Docker
+(상세 전문은 제안서 사이트 및 본 세션 8단계 출력 참조)
+
+### 관련 포트폴리오 추천
+1. EZ-Approve (전자결재·업무관리) — 관리자 대시보드·RBAC·감사 로그·외부 결과 페이지
+2. Series-B (투자조합 관리) — 다수 데이터 취합 관제 대시보드·조건 검색/필터
+3. Harmony Link (주간보호센터 관리) — 멀티지점 관리·출퇴근/증빙·실시간 알림
